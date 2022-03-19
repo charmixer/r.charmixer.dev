@@ -1,0 +1,10 @@
+baseURL = 'https://r.charmixer.dev/'
+languageCode = 'en-dk'
+theme = "gochowdown"
+
+defaultContentLanguage = "dk"
+
+[languages]
+[languages.dk]
+weight = 1
+title = "Opskrifter"
